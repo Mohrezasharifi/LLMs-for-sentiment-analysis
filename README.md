@@ -1,2 +1,3 @@
 # LLMs-for-sentiment-analysis
-LLMs for Sentiment Analysis
+Aim of the project: 
+This study aims to investigate the application of Large Language Models (LLMs) not only for sentiment analysis but also for detecting the underlying emotions and intentions expressed in text. While traditional research in this area has largely focused on identifying sentiment polarity—such as positive, negative, or neutral—this work seeks to explore deeper layers of meaning embedded in language. Understanding emotions (e.g., joy, anger, sadness) and intentions (e.g., persuasion, inquiry, command) provides a more nuanced perspective on human communication. By leveraging the contextual and generative capabilities of LLMs, this research opens new avenues for extracting richer and more actionable insights from textual data, ultimately contributing to more intelligent and empathetic human-computer interactions.
