@@ -17,3 +17,6 @@ This study aims to investigate the application of Large Language Models (LLMs) n
 * GoEmotions
 
 * Ekman's Basic Emotions
+
+# Demo: 
+https://698e13ad37f2f10770.gradio.live
