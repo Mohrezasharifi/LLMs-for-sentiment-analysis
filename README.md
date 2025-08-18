@@ -36,7 +36,7 @@ source: https://research.google/blog/goemotions-a-dataset-for-fine-grained-emoti
 <img width="984" height="323" alt="Screenshot 2025-08-15 at 22 18 09" src="https://github.com/user-attachments/assets/17849ce5-ed28-4101-af34-2d082fd6d107" />
 
 
-# Resutls: 
+# Results: 
 
 Finetuned RoBERTa on the data for Sentiment Analysis on five classes from Very Negative to Very Negative:
 
